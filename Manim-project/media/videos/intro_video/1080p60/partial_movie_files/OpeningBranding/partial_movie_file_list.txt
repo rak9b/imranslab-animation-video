@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/imranslab/Assignment1/Manim-project/media/videos/intro_video/1080p60/partial_movie_files/OpeningBranding/3012568908_4059324658_2073938930.mp4'
+file 'file:D:/imranslab/Assignment1/Manim-project/media/videos/intro_video/1080p60/partial_movie_files/OpeningBranding/3751870742_3054723797_1192065659.mp4'
+file 'file:D:/imranslab/Assignment1/Manim-project/media/videos/intro_video/1080p60/partial_movie_files/OpeningBranding/3751870742_1124620395_2017527939.mp4'
+file 'file:D:/imranslab/Assignment1/Manim-project/media/videos/intro_video/1080p60/partial_movie_files/OpeningBranding/3751870742_971326567_3777058063.mp4'
+file 'file:D:/imranslab/Assignment1/Manim-project/media/videos/intro_video/1080p60/partial_movie_files/OpeningBranding/3751870742_1336677985_1635484572.mp4'
