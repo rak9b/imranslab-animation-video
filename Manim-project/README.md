@@ -305,7 +305,7 @@ Create a convenience script for end‑to‑end builds.
 
 ## Credits
 
-- **Creative & engineering:** Imran’s Lab project team  
+- **Creative & engineering:** Imran’s Lab project team member ( Md.Rakibul Islam )  
 - **Core tools:** Manim Community Edition, gTTS, FFmpeg
 
 ---
